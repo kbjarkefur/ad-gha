@@ -1,3 +1,3 @@
 # adodown-stata
 
-testing gha 2 3 4 5
+testing gha 2 3 4 5 6
